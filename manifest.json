@@ -4,9 +4,7 @@
   "description": "Chat with a backend API.",
   "version": "1.0",
   "permissions": ["activeTab"],
-  "background": {
-    "service_worker": "background.js"
-  },
+
   "action": {
     "default_popup": "popup.html"
   },
