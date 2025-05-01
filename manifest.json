@@ -8,5 +8,5 @@
   "action": {
     "default_popup": "popup.html"
   },
-  "host_permissions": ["http://localhost:5000/*"]
+  "host_permissions": ["https://backend-chrome-chat.onrender.com*"]
 }
